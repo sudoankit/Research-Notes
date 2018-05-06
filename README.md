@@ -25,16 +25,16 @@ CVPR, ICCV, ECCV, BMVC, etc
 Mostly NIPS, ICLR, AISTATS etc
 
 - [ ] Auto-Encoding Variational Bayes, Diederik P Kingma, Max Welling, ICLR 2013
-- [ ] Adam: A Method for Stochastic Optimization, Diederik P. Kingma, Jimmy Ba. ICLR 2014
-- [ ] Generative adversarial nets, Goodfellow, Ian, et al. NIPS 2014
+- [x] Adam: A Method for Stochastic Optimization, Diederik P. Kingma, Jimmy Ba. ICLR 2014
+- [x] Generative adversarial nets, Goodfellow, Ian, et al. NIPS 2014
 
 ### 2017 
 
 #### Mixbag
 
-- [ ] Deep Learning, Yann LeCun et al. Nature 2015 [AOA] 
-- [ ] Reducing the Dimensionality of Data with Neural Network, G. Hinton, Science, 2006
-- [ ] An Instructor’s Guide to (Some of) the Most Amazing Papers in Neuroscience, Harrington et al. Journal of  Undergrad Neuroscience Education, 2015
+- [x] Deep Learning, Yann LeCun et al. Nature 2015 [AOA] 
+- [x] Reducing the Dimensionality of Data with Neural Network, G. Hinton, Science, 2006
+- [x] An Instructor’s Guide to (Some of) the Most Amazing Papers in Neuroscience, Harrington et al. Journal of  Undergrad Neuroscience Education, 2015
 
 
 
