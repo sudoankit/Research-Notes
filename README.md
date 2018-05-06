@@ -30,13 +30,11 @@ Mostly NIPS, ICLR, AISTATS etc
 
 ### 2017 
 
-#### Mathematics 
+#### Mixbag
 
--TODO-
-
-#### Computer Vision
-
--TODO-
+- [ ] Deep Learning, Yann LeCun et al. Nature 2015 [AOA] 
+- [ ] Reducing the Dimensionality of Data with Neural Network, G. Hinton, Science, 2006
+- [ ] An Instructor’s Guide to (Some of) the Most Amazing Papers in Neuroscience, Harrington et al. Journal of  Undergrad Neuroscience Education, 2015
 
 
 
